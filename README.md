@@ -1,4 +1,4 @@
-# Minecraft Launcher
+# M I K U   L A U N C H E R
 
 ![Minecraft Launcher](https://img.shields.io/badge/Minecraft-Launcher-6CC644)
 
